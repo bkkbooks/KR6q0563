@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0563/j/v1/juan/0
+seq: 0
+front:
+  text: 祖亮啟禪師語錄序自大聖已還拈花微笑之旨弘傳迄今二千七百有餘載其間得大機用具正知見說法如雲若雨者又奚啻龍驤虎驟哉我祖亮法兄英年悟證親入揚墳靈機老人之室厥後四坐道場浩歸湖海其赤手提持惟以向上一著機語峻拔衲子敬畏每於鉗錘之下透脫見聞者不知其幾幾嗣法弟子澗石予揆尤龍象之最著者揆識卓才優繼述有志然卒以數奇不獲展其驥足回首之日惟切切以未刻師語錄為念乃以其遺稿囑同參素嚴丐余作序壽梓流通法眼嗚呼揆可謂重其道而孝其師已雖死猶生余雖不敏為片辭以揄揚其大略焉時康熙四十年孟夏蓂生莢之四日普明法弟超嶼題
+  hash: sha256:a7a7caafb5c5a2bc90063084ee8ee5897d0de77ffe93ee5c6b281cb9d6c25550
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6q0563_J_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 祖亮啟禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J39/J39nB449.xml
+    old_id: J39nB449
+hash: sha256:ba265722b281c36d54f3996d74263a97362b0c90f7e22e83feb1fbc34f4f5bf7
