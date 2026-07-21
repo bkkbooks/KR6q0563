@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0563_000-J.yaml, hash: 'sha256:ba265722b281c36d54f3996d74263a97362b0c90f7e22e83feb1fbc34f4f5bf7'}
+  - {seq: 0, filename: KR6q0563_000-J.yaml, hash: 'sha256:0b338b56f63ea98366ec5fda5d675632cc5fc4befed66c4bb9abebd75e8e5c4c'}
   - {seq: 1, filename: KR6q0563_001-J.yaml, hash: 'sha256:2d64ccdab092ea270c4aea0d161e851533a118ec63ab77f04f48358ab577a39b'}
   - {seq: 2, filename: KR6q0563_002-J.yaml, hash: 'sha256:632f8fe320ca2ebb79fff10608cf42b1f7e3a36c33e02a4395c227588b9c64a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0563_000-J.markers.yaml, hash: 'sha256:6efa859cded6cc736ca819d461a39f9db4beb3130b4a28da9a60db56826914a6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0563_000-J.markers.yaml, hash: 'sha256:1d74822e1f2867028f2832fb89d6f2c85af8f1abdfaa3d8cb81030f29558fa2c'}
   - {seq: 1, role: markers, filename: assets/KR6q0563_001-J.markers.yaml, hash: 'sha256:61e751c6f03dee2b7c8e7a59b50463ae36cfbd8bd551fb9bb5a3b695d66afbee'}
   - {seq: 2, role: markers, filename: assets/KR6q0563_002-J.markers.yaml, hash: 'sha256:7b3140127572ce677221bbd28b14c04ab29671d9394d235585bea8344da68d97'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0563_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -557,4 +557,4 @@ table_of_contents:
   label: 當湖任捕廳請為橋下妖石說法
   type: mulu
   level: 1
-hash: sha256:eed8d7a45c136d22b15ad0fb5ec12f70625b8312a52c43726f4188e7e3f995ff
+hash: sha256:1dd7300b07a4a946253194d8e27080b2eb86ae000edcb948f4c9846b3d8601e6
